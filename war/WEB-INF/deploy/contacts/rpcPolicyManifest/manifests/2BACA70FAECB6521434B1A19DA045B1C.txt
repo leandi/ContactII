@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.sample.contacts.client.ContactsService
+path: FE1E9A84403E6EBD187D06F561A5F758.gwt.rpc
